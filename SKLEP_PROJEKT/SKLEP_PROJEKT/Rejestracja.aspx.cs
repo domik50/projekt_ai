@@ -19,7 +19,9 @@ namespace SKLEP_PROJEKT
         {
 
         }
-        
+        /// <summary>
+        /// //
+        /// </summary>
         private void registerUser()
     {
         String connString = System.Configuration.ConfigurationManager.ConnectionStrings["sklepConnString"].ToString();
